@@ -11,7 +11,7 @@
 
 1. GitLab развернул на ВМ в Яндекс.Клауд. Версия 16.
 2. Пустой проект не заскринил. Прикладываю скрин коммитов
-![Скриншот-1](https://github.com/zelenkins/gitlab_hw/main/img/1.png)
-3. ![Скриншот-2](https://github.com/zelenkins/gitlab_hw/main/img/r1.png)
-![Скриншот-3](https://github.com/zelenkins/gitlab_hw/main/img/r2.png)
+![Скриншот-1](https://github.com/zelenkins/gitlab_hw/blob/main/img/1.png)
+3. ![Скриншот-2](https://github.com/zelenkins/gitlab_hw/blob/main/img/r1.png)
+![Скриншот-3](https://github.com/zelenkins/gitlab_hw/blob/main/img/r2.png)
 ---
